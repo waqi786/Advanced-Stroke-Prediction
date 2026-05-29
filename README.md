@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview:
 
 Stroke is one of the leading causes of death and disability worldwide. According to medical research, early identification of individuals at high risk of stroke can significantly reduce complications and save lives.  
 This project aims to **predict the likelihood of a stroke based on patient medical data using machine learning models**. By analyzing real-world healthcare features such as age, BMI, blood glucose level, and lifestyle habits, the model provides a reliable prediction to support proactive healthcare interventions.
